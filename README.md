@@ -5,4 +5,3 @@
 <img width="1440" alt="Снимок экрана 2021-06-19 в 11 41 21" src="https://user-images.githubusercontent.com/63841835/122709796-55be4580-d2a2-11eb-9f58-034d10c36012.png">
 <img width="1437" alt="Снимок экрана 2021-06-19 в 11 51 37" src="https://user-images.githubusercontent.com/63841835/122709799-56ef7280-d2a2-11eb-9a9c-5077213aac28.png">
 <img width="1440" alt="Снимок экрана 2021-06-19 в 11 52 53" src="https://user-images.githubusercontent.com/63841835/122709806-5951cc80-d2a2-11eb-87f4-3a3791579eed.png">
-<img width="1216" alt="Снимок экрана 2021-04-13 в 11 57 24" src="https://user-images.githubusercontent.com/63841835/122709812-5b1b9000-d2a2-11eb-9b30-7dd8ea990c42.png">
